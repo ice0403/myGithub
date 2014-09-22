@@ -1,2 +1,2 @@
 test new file
-new word
+new words
